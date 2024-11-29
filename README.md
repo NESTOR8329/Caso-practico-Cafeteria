@@ -8,3 +8,7 @@ ESTE REPOSITORIO CONTIENE LOS RESULTADOS DEL CASO PRACTICO 1 DEL DIPLOMADO
 #### Conclusion 2.- El producto mas vendido fue el Brewed Chai tea
 
 ![image](https://github.com/user-attachments/assets/412b72af-511c-4494-90c2-4ed882821d48)
+
+##### Conclusion 3.- La sucursal con mas ingresos fue KELL'S KITCHEN
+
+![image](https://github.com/user-attachments/assets/a19e8c19-2b5e-4098-902b-a7c2a60fd028)
